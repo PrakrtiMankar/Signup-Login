@@ -1,3 +1,2 @@
-else{
-        //     return alreadyUser = 0;
-        // }
+signup('Prakrti');
+// signup('Nikki');
